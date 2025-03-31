@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bharat Rasve's ⌨ Numpad Typing</title>
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+    <div class="container">
+        <h2>Bharat Rasve's ⌨ Numpad Typing</h2>
+        <div class="number-container" id="numberContainer"></div>
+        <input type="text" class="input-box" id="typingInput" placeholder="Start typing..." autofocus>
+        <div class="stats">
+            <span class="timer" id="timer">00:00</span>
+            <button class="stop" onclick="stopTest()">Stop</button>
+            <button class="restart" onclick="restartTest()">Restart</button>
+            <label class="switch">
+                <input type="checkbox" id="modeSwitch">
+                <span class="slider round"></span>
+            </label>
+            <span>Advance Mode</span>
+        </div>
+        <div class="stats">
+            <p>Speed: <span id="wpm">0</span> WPM | Accuracy: <span id="accuracy">100</span>%</p>
+            <p>Average WPM: <span id="avgWpm">-</span></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
