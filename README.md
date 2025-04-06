@@ -2,6 +2,9 @@
 
 This is a simple web-based tool to practice typing numbers on a numpad. It provides a user-friendly interface to improve your speed and accuracy.
 
+# Click on link: 
+https://bharombhar.github.io/NUMPAD_TYPING_PRACTICE/
+
 ## Features
 
 - **Random Number Generation:** Generates random sequences of numbers for practice.
