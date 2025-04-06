@@ -37,6 +37,13 @@ Contributions are welcome! If you have any suggestions or find any issues, pleas
 ## Author
 
 - Bharat Rasve
+- Follow Bharat Rasve for more.
+
+Twitter: https://lnkd.in/dumhzwzK
+Instagram: https://lnkd.in/dmtbG9iu
+Quora: https://lnkd.in/dsZvEmNh
+Youtube: https://lnkd.in/dkZTNjsU
+
 
 ## License
 
