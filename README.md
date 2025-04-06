@@ -15,11 +15,13 @@ This is a simple web-based tool to practice typing numbers on a numpad. It provi
 
 ## How to Use
 
-1. **Start Typing:** Begin typing the numbers displayed in the highlighted section.
-2. **Real-Time Feedback:** The current character is highlighted, and your accuracy is tracked.
-3. **Timer and Stats:** The timer starts automatically, and your WPM and accuracy are displayed.
-4. **Stop or Restart:** Use the "Stop" or "Restart" buttons, or press `Escape` or `Tab` respectively.
-5. **Advanced Mode:** Toggle "Advance Mode" for more challenging practice.
+1. **Click on link:** https://bharombhar.github.io/NUMPAD_TYPING_PRACTICE/
+
+2. **Start Typing:** Begin typing the numbers displayed in the highlighted section.
+3. **Real-Time Feedback:** The current character is highlighted, and your accuracy is tracked.
+4. **Timer and Stats:** The timer starts automatically, and your WPM and accuracy are displayed.
+5. **Stop or Restart:** Use the "Stop" or "Restart" buttons, or press `Escape` or `Tab` respectively.
+6. **Advanced Mode:** Toggle "Advance Mode" for more challenging practice.
 
 ## Installation
 
